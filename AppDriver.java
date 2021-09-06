@@ -4,6 +4,7 @@ Class Name: CST 8284_300 Object Oriented Programming
 Date: 18/07/2021
 */
 
+// repo added to github
 package cst8284.assignment2;
 
 // calling scanner to use main loop of the program
